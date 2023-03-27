@@ -1,0 +1,17 @@
+.png
+.gif
+.jpg
+.jpeg
+.svg
+.log
+.docx
+.pptx
+.xlsx
+.txt
+.pdf
+.zip
+.gz
+.tgz
+.mp4
+.mov
+.webm
